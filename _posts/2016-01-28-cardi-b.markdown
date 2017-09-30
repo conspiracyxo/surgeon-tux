@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Hip Hop News"
+date:   2017-09-22
+categories: 
+author: "Daniel Dansterby"
+---
+
+Cardi B is the best new hip hop artist. Check out her video below...
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PEGccV-NOm8" frameborder="0" allowfullscreen></iframe></center>
+
+I think my favorite line is "and I pay my momma bills." That line is dope! 
