@@ -3,8 +3,8 @@
 # If you change something here, please rerun `jekyll serve`
 
 # Site settings
-title: BONES AND SKULL
-description: A new blog about shiznit!
+title: SKULL AND BONES 
+description: A new blog about urban life and music !
 baseurl: "/tux" # put subpath of your site, e.g. /blog
 url: "https://conspiracyxo.github.io" # put the base hostname & protocol for your site
 
