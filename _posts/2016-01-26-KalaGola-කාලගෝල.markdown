@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "This is my first post"
-date:   2017-09-26
+date:   2017-09-01
 categories: ["archive"]
 author: "Newton Lexington"
 ---
 
-# Come to Apologize 
+# Welcome to our site! 
+
+This is a new blog that will be dedicated to urban news and all the happenings in the hip hop world. Please check back soon for updates. 
