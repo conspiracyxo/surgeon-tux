@@ -3,14 +3,14 @@
 # If you change something here, please rerun `jekyll serve`
 
 # Site settings
-title: SURGEON TUX
+title: LEX BLUMPKIN
 description: sudo rm -rf /* and we're done.
 baseurl: "/tux" # put subpath of your site, e.g. /blog
 url: "https://conspiracyxo.github.io" # put the base hostname & protocol for your site
 
-email: lpsandaruwan@gmail.com
-twitter_username: lpsandaruwan
-github_username:  lpsandaruwan
+email: 
+twitter_username:
+github_username:  
 
 paginate: 6
 
