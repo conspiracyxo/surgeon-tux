@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hip Hop News"
+title:  "Hit Song by Cardi B"
 date:   2017-09-22
 categories: 
 author: "Daniel Dansterby"
@@ -10,4 +10,6 @@ Cardi B is the best new hip hop artist. Check out her video below...
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PEGccV-NOm8" frameborder="0" allowfullscreen></iframe></center>
 
-I think my favorite line is "and I pay my momma bills." That line is dope! 
+I think my favorite line is "and I pay my momma bills." That line is dope! Bodak Yellow hit number one on the Billboard Top 100 in August of this year. This makes Cardi B the first female artist to get a number one spot as a solo hit, no guest appearances at all. 
+
+You can check out her website at http://iamcardib.com/. 
