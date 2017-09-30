@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "News Update"
+title:  "Hip Hop News"
 date:   2017-09-22
 categories: 
 author: "Daniel Dansterby"
 ---
 
-Red bottoms are all the rage nowadays. Louboutin shows are classy and expensive. Up until now, they have been popular in female fashion. However, the designer also makes men's shoes. We are wondering how people feel about some of the designs... 
+Cardi B is the best new hip hop artist. Check out her video below...
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PEGccV-NOm8" frameborder="0" allowfullscreen></iframe>
