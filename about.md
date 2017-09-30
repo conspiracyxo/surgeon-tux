@@ -4,7 +4,7 @@ title:  "About"
 permalink : "/about/"
 ---
 
-![profile-image](../images/prof.png){:height="260" style="float: left; padding-right: 20px"}
+![profile-image](../images/AUTO.jpg){:height="260" style="float: left; padding-right: 20px"}
 
 
 <h3>About Surgeon Tux</h3>
