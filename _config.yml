@@ -6,7 +6,7 @@
 title: SURGEON TUX
 description: sudo rm -rf /* and we're done.
 baseurl: "/tux" # put subpath of your site, e.g. /blog
-url: "https://github.com/conspiracyxo" # put the base hostname & protocol for your site
+url: "https://conspiracyxo.github.io" # put the base hostname & protocol for your site
 
 email: lpsandaruwan@gmail.com
 twitter_username: lpsandaruwan
