@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "KALAGOLA කාලගෝල"
+title:  "They call him lex"
 date:   2017-01-26
 categories: ["archive"]
-author: "Lahiru Pathirage"
+author: "Newton Hadridge"
 ---
 
 [**KalaGola**](http://github.com/lpsandaruwan/kalagola) is a cross platform **Pythonic tool** to traverse through the timeline of your **GitHub hosted font** repository,
