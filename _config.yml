@@ -6,7 +6,7 @@
 title: SKULL AND BONES 
 description: A new blog about urban life and music !
 baseurl: "/tux" # put subpath of your site, e.g. /blog
-url: "https://www.skullnbones.website" # put the base hostname & protocol for your site
+url: "skullnbones.website" # put the base hostname & protocol for your site
 
 email: 
 twitter_username:
