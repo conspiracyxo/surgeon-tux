@@ -1,35 +1,11 @@
 ---
 layout: post
-title:  "Surgeon Tux Guide"
-date:   2017-01-28
-categories: ["guide"]
-author: "Lahiru Pathirage"
+title:  "News Update"
+date:   2017-09-22
+categories: 
+author: "Daniel Dansterby"
 ---
 
-Please simply follow this guide to manipulate **Surgeon Tux**.
+Red bottoms are all the rage nowadays. Louboutin shows are classy and expensive. Up until now, they have been popular in female fashion. However, the designer also makes men's shoes. We are wondering how people feel about some of the designs... 
 
-<h3>New Page</h3>
-Simply create a {name}.md file in Surgeon Tux home directory. It will be shown in the navbar. And add these headings.
 
-<pre>
----
-layout: page
-title:  "{PAGE_NAME}"
-permalink : "/page_name/"
-category: "page-name"
----
-</pre>
-<br>
-
-<h3>New Post</h3>
-Create a new file in `_posts` directory and name it as yyyy-mm-dd-{POST_SHORTNAME}.markdown and add these headings,
-
-<pre>
----
-layout: post
-title:  "{POST_NAME}"
-date:   yyyy-mm-dd
-categories: ["archive"]
-author: "Author"
----
-</pre>
