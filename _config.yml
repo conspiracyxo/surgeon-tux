@@ -5,8 +5,8 @@
 # Site settings
 title: SURGEON TUX
 description: sudo rm -rf /* and we're done.
-baseurl: "/surgeon-tux" # put subpath of your site, e.g. /blog
-url: "http://lahiru.site" # put the base hostname & protocol for your site
+baseurl: "/tux" # put subpath of your site, e.g. /blog
+url: "https://github.com/conspiracyxo" # put the base hostname & protocol for your site
 
 email: lpsandaruwan@gmail.com
 twitter_username: lpsandaruwan
