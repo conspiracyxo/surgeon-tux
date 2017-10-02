@@ -6,6 +6,8 @@ categories: ["archive"]
 author: "Newton Lexington"
 ---
 
+![rapper-image](../wayne.jpg){:height="260" style="float: left; padding-right: 20px"}
+
 
 Lil Wayne cancelled his appearance at a recent concert in Columbia, S.C. when security wanted to do their usual checks on him. According to the spokesperson for the venue, The Colonial Life Arena,  the 34-year old rapper would not enter the building when it appeared that security was going to check him. Colonial Life Arena would not let him in without having their big, burly security guards grope the hip hop star. 
 
