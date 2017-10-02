@@ -10,3 +10,14 @@ Now some of you may be familiar with the Berkeley based rapper Lil' B, or Based 
 
 
 <iframe width="640" height="360" src="http://www.worldstarhiphop.com/embed/112109" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+
+Here is a copy of the original for comparison. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MB5gKerbnLE" frameborder="0" allowfullscreen></iframe>
+
+
+FYI, Lil B is rumored to be working with YG on a new song. 
