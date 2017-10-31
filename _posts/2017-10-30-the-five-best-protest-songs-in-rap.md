@@ -7,6 +7,8 @@ published: true
 
 Hip Hop music was born out of rebellion. In the early eighties the new sound rebelled against the disco and funk sounds of the 70's. The new form of urban music also attacked social inequalities and political bias; in a sense it was a musical extension of the Civil Rights Movement. Groups such as Public Enemy, N.W.A. and Gang Starr talked about the tough streets and poverty experience like we had never heard before. Therefore, it goes without saying that Hip Hop is home to many "protest" style anthems that are still blasted by today's anti-establishment protesters. Here is a look at five of the best protest songs in the world of rap and Hip Hop. 
 
+
+
 ## 1. "Fuck tha Police" - N.W.A. 
 Listing this song is mandatory. This is perhaps one of the most notoriest protest songs of all time. During its time it was uber controversial and divisive. Some understood the rage and vengefulness fueled by the song. Others thought it was an outright disgrace to outlandishly disrespect law enforcement. Either way, this is a song that has just as much relevance today as it did back in the late 80's and early 90's. 
 
