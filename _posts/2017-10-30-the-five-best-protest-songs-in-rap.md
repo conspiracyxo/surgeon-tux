@@ -25,7 +25,7 @@ This is a hard hitting song that mainly discusses the prison industrial complex.
 ## 4. "Mathematics" - Mos Def 
 This is one of my favorite all time songs by social activist and rapper Yasiin Bey. This song is intellegent as it is creative. It's use of numbers to address social ills is on its own level. One bar states "young bloods can't spell but they can rock you at Playstation." This song is full of statisics that will back up every claim made by Bey. As he states..."numbers are hard to feel and they never have feelings." In this sense, numbers give the listener a palpable understanding of how social oppression affects them. 
 
-[![Mathematics-MosDef](https://www.youtube.com/watch?v=m5vw4ajnWGA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gKkdYQ44vms" frameborder="0" allowfullscreen></iframe>
 
 ## 5. "Bin Ladin"- Immortal Technique 
 This song addresses the 9/11 controversy. Immortal Technique goes hard on the Bush admnistration by saying "Bin Ladin didn't blow up the projects... Bush knocked down the towers." Over the catchy beat I.T. discusses the occupation in the Middle East and presents the other side of the conflict. He also speaks on the military industrial complex and subjects of American notoriety such as the D.C. sniper. The lyrics on this song are practically unmatched. Check out the part that says...
