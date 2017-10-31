@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ![Public Enemy Mural](/images/pe223432321111.jpg){:height="333" style="float: left; padding-right: 20px"}
