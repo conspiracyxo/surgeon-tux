@@ -33,7 +33,7 @@ This song addresses the 9/11 controversy. Immortal Technique goes hard on the Bu
 -I'd rather see the presiden dead
 -It's never been said, 
 -but I set precedents! -- Immortal Techinique in Bin Ladin. 
-These are some gutsy lyrics but they also show off I.T's almost extraterrestial rhyming abilities. It's a good jam to listen too even if you are not into the 9/11 conspiracy stuff. 
+These are some gutsy lyrics but they also show off I.T's almost extraterrestial rhyming abilities. It's a good jam to listen too even if you are not into the 9/11 conspiracy stuff. Eminem and Mos Def even make an appearance on this track. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vrQSAkaWsaU" frameborder="0" allowfullscreen></iframe>
 
