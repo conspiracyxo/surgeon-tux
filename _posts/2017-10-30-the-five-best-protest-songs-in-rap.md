@@ -27,7 +27,7 @@ This is one of my favorite all time songs by social activist and rapper Yasiin B
 
 [![Mathematics-MosDef](https://www.youtube.com/watch?v=m5vw4ajnWGA)
 
-5. "Bin Ladin"- Immortal Technique 
+## 5. "Bin Ladin"- Immortal Technique 
 This song addresses the 9/11 controversy. Immortal Technique goes hard on the Bush admnistration by saying "Bin Ladin didn't blow up the projects... Bush knocked down the towers." Over the catchy beat I.T. discusses the occupation in the Middle East and presents the other side of the conflict. He also speaks on the military industrial complex and subjects of American notoriety such as the D.C. sniper. The lyrics on this song are practically unmatched. Check out the part that says...
 -"I don't rap for dead presidents
 -I'd rather see the presiden dead
