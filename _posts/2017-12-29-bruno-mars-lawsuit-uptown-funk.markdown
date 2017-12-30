@@ -2,7 +2,7 @@
 layout: post
 title:  "The Bruno Mars Controversy"
 date:   2017-09-29
-categories: 
+categories: Bruno Mars, R&B
 author: "Daniel Dasterby"
 ---
 
