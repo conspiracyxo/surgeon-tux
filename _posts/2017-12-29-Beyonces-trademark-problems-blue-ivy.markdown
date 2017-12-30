@@ -13,7 +13,7 @@ Too bad for Beyonce. She hit a serious roadblock earlier this year when an ordin
 
 After learning of Beyonce's intent, the agency owner served legal papers on the singer. In short, Blue Ivy Events' lawyers requested to have a deposition with Beyonce. The *Queen Bee* got her legal team together and filed a motion to keep the proceeding secret, presumably due to her celebrity status. 
 
-The matter was heard by the U.S. Trademark Trial and Appeal board. The administrative court examined Beyonce's claim that her family's safety was in danger if the proceeding was unveiled to the public. Beyonce's legal team also argued that that public information as to the singer's whereabouts tended to draw large crowds and required high levels of security. *Clearly*, the baard disagreed with Queen Bee. The motion was denied and Beyonce is now subject to attend the deposition without any real privacy. 
+The matter was heard by the [U.S. Trademark Trial and Appeal board](https://www.uspto.gov/trademarks-application-process/trademark-trial-and-appeal-board). The administrative court examined Beyonce's claim that her family's safety was in danger if the proceeding was unveiled to the public. Beyonce's legal team also argued that that public information as to the singer's whereabouts tended to draw large crowds and required high levels of security. *Clearly*, the baard disagreed with Queen Bee. The motion was denied and Beyonce is now subject to attend the deposition without any real privacy. 
 
 It should be noted that the public will not be allowed into the deposition itself. Rather, Beyonce's legal team was concerned about fans gathering in the area and possibly intruding in the star's life while she tries to handle serious legal business. In my opinion, it is a valid concern on her part. Who wants to have a bunch of lookey-loos hanging around when you are trying work on something serious. 
 
@@ -22,5 +22,7 @@ The funny thing about this is that it is not the first time these two parties ha
 Check out these videos for more on Beyonce's trademark battle. 
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/H4Uv-Jki4uM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></center>
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/fr7cQWrwgcc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></center>
 
 
