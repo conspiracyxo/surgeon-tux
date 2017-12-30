@@ -27,5 +27,5 @@ However, this is not the first time Bruno has been targeted. [Zapp and Roger](ht
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OPf0YbXqDm0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></center>
 <br/>
 <br/>
-I think everyone needs to stop trippin' over good music. All these songs have their place in history. As an avid user, I can easily tell one from another. I don't think Bruno intentionally stole parts of the songs to make his music. Rather, I think he just thought of things he liked when he was younger and tried to bring them altogether. The older artists should just let things be. [Lawsuits](http://skullnbones.website/beyonce/2017/12/29/Beyonces-trademark-problems-blue-ivy.html) need to be saved for true instances of stolen music. 
+I think everyone needs to stop trippin' over good music. All these songs have their place in history. As an avid user, I can easily tell one from another. I don't think Bruno intentionally stole parts of the songs to make his music. Rather, I think he just thought of things he liked when he was younger and tried to bring them altogether. The older artists should just let things be. [Celebrity lawsuits](http://skullnbones.website/beyonce/2017/12/29/Beyonces-trademark-problems-blue-ivy.html) need to be saved for true instances of stolen music. 
 
