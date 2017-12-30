@@ -5,7 +5,7 @@ date:   2017-12-29
 categories: Beyonce
 author: "Guest Post"
 ---
-![Beyonce](images/beyonce.jpg "Beyonce Knowles")
+![Beyonce](/images/beyonce.jpg "Beyonce Knowles")
 
 (New York, NY) In an attempt to keep her lawsuit details private, singer and diva [Beyonce Knowles](https://www.beyonce.com/) lost a court proceeding that would have allowed her to do just that. Her trademark woes began earlier this year when she tried to trademark the name "Blue Ivy." This is also the name of her young child with rap mogul Jay-Z. The queen of divas intended to use the brand for make-up, fashion and boutique electronics. Obtaining the rights to the name would allow her to have exclusive use of the brand, and she could presumably use her star power to make the brand a household name. 
 
