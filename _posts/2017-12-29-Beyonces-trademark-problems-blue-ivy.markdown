@@ -22,9 +22,9 @@ The funny thing about this is that it is not the first time these two parties ha
 Check out these videos for more on Beyonce's trademark battle. 
 
 ---
-
+<br/>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/H4Uv-Jki4uM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></center>
-</br>
+<br/>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/fr7cQWrwgcc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></center>
 
 
