@@ -60,6 +60,13 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
+
+header1 {
+    background-color: red; 
+    max-width: 100%; 
+    max-height: 200px; 
+}
+
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height};
     color: $text-color;
