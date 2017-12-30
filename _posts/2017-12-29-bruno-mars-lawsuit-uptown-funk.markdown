@@ -10,7 +10,9 @@ So it looks like another star is having legal problems. Bruno Mars, the new R&B 
 
 Some musicians out there are not totally happy with the sounds heard on this joint. For one, the ladies from *The Sequence* are claiming that the song _Uptown Funk_ sounds a little bit too much like their hit _Funk You Up_. I'm going to put the video in here just so you can see if there is a difference yourself. Curiously, as I searched for "Funk You Up' on YouTube, Bruno Mars and Mark Ronson are the top hit with "Uptown Funk." Now, I guess that would make me a little mad too! Go ahead and listen to the song...
 <br/>
+<br/>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/nEpBZ7DO1L8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></center>
+<br/>
 <br/>
 Personally, I dont hear much of a resemblance between the two songs. The beat seems different, and the song by The Sequence is a rap song, not melodic R&B tune. Actually, I'm not a fan of the song "Funk You Up." I appreciate old school rap, but this is not one of my favorites. However, the song did become the first rap song to hit the Billboard Top 50, so I give it the respect it deserves. 
 
@@ -20,8 +22,10 @@ Of course the gals from The Sequence are asking for money to settle before trial
 
 However, this is not the first time Bruno has been targeted. [Zapp and Roger](https://en.wikipedia.org/wiki/Zapp_(band)), one of my all-time favorites, asserted a claim against Uptown Funk earlier this year. They stated that the first 50 seconds or so of the song sounded just like "More Bounce to the Ounce." Now aside from the singing, this one makes a little more sense. There is a similar beat and the guitar riff is very similar. However, the songs are not so much alike that there is danger of confusing them. You can easily tell one from another during this intro. 
 <br/>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lK6wOG_aDl8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OPf0YbXqDm0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<br/>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/lK6wOG_aDl8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OPf0YbXqDm0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe></center>
+<br/>
 <br/>
 I think everyone needs to stop trippin' over good music. All these songs have their place in history. As an avid user, I can easily tell one from another. I don't think Bruno intentionally stole parts of the songs to make his music. Rather, I think he just thought of things he liked when he was younger and tried to bring them altogether. The older artists should just let things be. Lawsuits need to be saved for true instances of stolen music. 
 
